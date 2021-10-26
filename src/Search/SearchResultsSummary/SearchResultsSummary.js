@@ -14,11 +14,11 @@ export function SearchResultsSummary() {
                     <span className="icon"><i className="fas fa-sliders-h"></i></span>
                     <span>All Filters</span>
                 </button>
-                <div class="buttons has-addons">
-                    <button class="button">$</button>
-                    <button class="button">$$</button>
-                    <button class="button">$$$</button>
-                    <button class="button">$$$$</button>
+                <div className="buttons has-addons">
+                    <button className="button">$</button>
+                    <button className="button">$$</button>
+                    <button className="button">$$$</button>
+                    <button className="button">$$$$</button>
                 </div>
                 <button className="button">
                     <span className="icon"><i className="fas fa-clock"></i></span>
