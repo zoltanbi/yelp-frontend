@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 number.txt
+
+#API key
+/src/hooks/yelp-api/config.js
